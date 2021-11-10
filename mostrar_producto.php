@@ -55,7 +55,7 @@
               echo "<br>";
               echo "Producto: ".$result["producto_nombre"]."<br>";
               echo "Precio: ".$result["producto_precio"]."<br>";
-              echo "Stock: ".$result["producto_stock"]."<p>";
+              echo "Stock: ".$result["producto_cantidad"]."<p>";
               echo "<img src='".$result["producto_imagen"]."' width='370px' height='370px'>";
             }
             else{
