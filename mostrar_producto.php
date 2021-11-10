@@ -6,7 +6,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Document</title>
     <style>
-              h1 {
+            h1 {
             text-align: center;
             font-size: 40px;
             font-family:-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
@@ -30,9 +30,11 @@
               codigo = "";
           }
       }, true);
-}
-</script>
+      }
+    </script>
+
 </head>
+
 <body style="background-color: #ACD612;">
   <h1 style='text-align: center'>
     <?php
